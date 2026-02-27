@@ -65,11 +65,16 @@ The goal is to demonstrate an end-to-end data analytics workflow using **Python*
 
 ---
 
-## 💡 Business Recommendations
-- Increase investment in international drama content  
-- Continue expanding TV Shows to improve user retention  
-- Diversify Kids & Family content to balance the catalog  
-- Use seasonal trends to time major content releases  
+## 👤 About Me
+
+**Shubham Pandey**  
+Data Analyst | Power BI | SQL | Python  
+
+- Strong interest in HR Analytics and Business Intelligence  
+- Actively building real-world analytics projects  
+
+📫 Feel free to connect with me on LinkedIn and review my other projects.
+- LinkedIn Link- www.linkedin.com/in/itzshubhampandey
 
 ---
 
